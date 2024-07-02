@@ -48,4 +48,4 @@ LinkedIn [Juan Farias](https://www.linkedin.com/in/juantfarias)
 
 ---
 
-![badge literalura](https://github.com/)
+![badge literalura](https://github.com/juantfarias/LiterAlura-Challenge/blob/main/badge_literalura.png)
